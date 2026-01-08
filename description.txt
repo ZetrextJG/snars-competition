@@ -1,5 +1,5 @@
 Jakub Grzywaczewski
-
+https://github.com/ZetrextJG/snars-competition
 D1-K=2.csv,0.0036
 D1-UNC.csv,0.0277
 D2-K=7.csv,0.0067
