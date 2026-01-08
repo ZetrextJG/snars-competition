@@ -1,0 +1,8 @@
+Jakub Grzywaczewski
+
+D1-K=2.csv,0.0036
+D1-UNC.csv,0.0277
+D2-K=7.csv,0.0067
+D2-UNC.csv,0.1441
+D3-K=12.csv,0.1000
+D3-UNC.csv,0.0840
